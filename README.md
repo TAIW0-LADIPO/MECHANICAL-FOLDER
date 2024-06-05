@@ -3,7 +3,7 @@ TAIWO LOLADE LADIPO
 
 Hi, I'm TAIWO! <br/><a href="https://github.com/TAIW0-LADIPO">mechanical engineer </a>, <a href="https://www.linkedin.com/in/pady-ladipo/"> Mechanical CAD Designer </a>, <a href="https://github.com/TAIW0-LADIPO"> Academist </a></h1>
 
-<h2>👨‍💻 MECHANICAL DESIGN Projects:</h2>
+<h2>👨‍💻 MECHANICAL DESIGN PROJECTS:</h2>
 
 - <b>MINI MECHANICAL PROJECT(CAD AND MODELLING)</b>
   - [CAD FILES](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -16,8 +16,15 @@ Hi, I'm TAIWO! <br/><a href="https://github.com/TAIW0-LADIPO">mechanical enginee
   - [CAD FILES](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>RESEARCH FILES </b>
   - [Image](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-<h2>👨‍💻 CERTIFICATES:</h2>
+ 
+<h2>👨‍💻 CAD LECTURER:</h2>
 
+- <b>MECHANICAL ENGINEERING LECTURER</b>
+  - [CAD FILES AND STUDY GUIDE](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>👨‍💻 CERTIFICATES:</h2>
+- <b>RESEARCH FILES </b>
+  - [Image](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   
 <h2> 🤳 Connect with me:</h2>
 
