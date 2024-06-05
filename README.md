@@ -16,8 +16,6 @@ Hi, I'm TAIWO! <br/><a href="https://github.com/TAIW0-LADIPO">mechanical enginee
   - [CAD FILES](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>RESEARCH FILES </b>
   - [Image](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
- 
-- 
 <h2>👨‍💻 CERTIFICATES:</h2>
 
   
