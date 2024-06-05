@@ -28,11 +28,15 @@ Hi, I'm TAIWO! <br/><a href="https://github.com/TAIW0-LADIPO">mechanical enginee
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="TaiwoLadipo | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][researchgate]
-[<img align="left" alt="TaiwoLadipo | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
-[<img align="left" alt="TaiwoLadipo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Taiwoladipo | Orcid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Orcid]
+[<img align="left" alt="TaiwoLadipo | Researchgate" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
+[<img align="left" alt="TaiwoLadipo | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" />][X]
+[<img align="left" alt="TaiwoLadipo | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="Taiwoladipo | Orcid" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />][Orcid]
 
+
+[researchgate]: https://www.researchgate.net/profile/Taiwo-Ladipo-4
 [X]: https://x.com/padytai
-[linkedin]: https://www.linkedin.com/in/pady-ladipo/ 
+[linkedin]: https://www.linkedin.com/in/pady-ladipo/
+[Orcid]: https://orcid.org/0000-0002-5688-1893
+
 
