@@ -1,7 +1,7 @@
 # MECHANICAL ENGINEER
 TAIWO LOLADE LADIPO
 
-Hi, I'm TAIWO! <br/><a href="https://github.com/TAIW0-LADIPO">mechanical engineer </a>, <a href="https://www.linkedin.com/in/pady-ladipo/"> Mechanical CAD Designer </a>, <a href="https://github.com/TAIW0-LADIPO"> Academist </a></h1>
+Hi, I'm TAIWO! <br/><a href="https://github.com/TAIW0-LADIPO">mechanical engineer </a>, <a href="https://www.linkedin.com/in/pady-ladipo/"> Mechanical CAD Designer </a></a></h1>
 
 <h2>👨‍💻 MECHANICAL DESIGN PROJECTS:</h2>
 
